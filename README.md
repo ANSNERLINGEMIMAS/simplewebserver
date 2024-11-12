@@ -46,11 +46,9 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ~ ~ ~
-
-
 ## OUTPUT:
-![alt text](<Screenshot 2024-11-12 190918.png>)
-![alt text](<Screenshot 2024-11-12 191401.png>)
+![alt text](<Screenshot 2024-11-12 212203.png>)
 
+![alt text](<Screenshot 2024-11-12 212558.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
